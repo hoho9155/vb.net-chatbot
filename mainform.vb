@@ -3,7 +3,7 @@ Imports System.Net
 
 Public Class mainform
     Private Sub btnSend_Click(sender As Object, e As EventArgs) Handles btnSend.Click
-        rtbAnswer.Text = ""
+        rtbAnswer.Text = "Thinking..."
         ' Create a request to the website URL
         Dim request As HttpWebRequest = DirectCast(
             WebRequest.Create($"http://hoho9155.pythonanywhere.com/ask/{txtQuestion.Text.Trim()}"),
