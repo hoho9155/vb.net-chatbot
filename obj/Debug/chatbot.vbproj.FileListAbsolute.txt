@@ -1,0 +1,14 @@
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.vbproj.AssemblyReference.cache
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.vbproj.SuggestedBindingRedirects.cache
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.mainform.resources
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.Resources.resources
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.vbproj.GenerateResource.cache
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.vbproj.CoreCompileInputs.cache
+E:\projects\chatgpt-vb.net\chatbot\bin\Debug\chatbot.exe.config
+E:\projects\chatgpt-vb.net\chatbot\bin\Debug\chatbot.exe
+E:\projects\chatgpt-vb.net\chatbot\bin\Debug\chatbot.pdb
+E:\projects\chatgpt-vb.net\chatbot\bin\Debug\chatbot.xml
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.exe
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.xml
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.pdb
+E:\projects\chatgpt-vb.net\chatbot\obj\Debug\chatbot.exe.licenses
